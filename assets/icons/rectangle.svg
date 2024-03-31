@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.265" height="13.265" viewBox="0 0 13.265 13.265">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="13.265" height="13.265" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_5" data-name="Repeat Grid 5" clip-path="url(#clip-path)">
+    <g id="Group_64" data-name="Group 64" transform="translate(-57 -58)">
+      <rect id="Rectangle" width="13.265" height="13.265" rx="5" transform="translate(57 58)" fill="#ff6f00"/>
+      <g id="icons_icon-checkmark-small" data-name="icons/icon-checkmark-small" transform="translate(60.79 62.643)">
+        <path id="Path" d="M3.55,2.845l-1.007.979a.583.583,0,0,1-.794,0l-.2-.192L.161,2.275a.543.543,0,0,1,0-.771.58.58,0,0,1,.794,0q.1.1.2.191c.332.323.665.647,1,.97L3.723,1.134,4.73.156a.583.583,0,0,1,.794,0,.542.542,0,0,1,0,.772l-.368.357Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
